@@ -1,6 +1,6 @@
 # ⏱️ Build Timer em Java
 
-Projeto simples em Java que cronometra o tempo de execução de comandos de build ou teste e registra no arquivo `build-times.log`.
+Projeto simples em Java que cronometra o tempo de execução de comandos de Build ou teste e registra no arquivo `build-times.log`.
 
 ## ✅ Como usar
 
